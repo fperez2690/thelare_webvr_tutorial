@@ -37,11 +37,11 @@ var setReadyEvents = function(event) {
 
 var setOnClickEvents = function(event) {
   if (event.id == 'spot1') {
-    alert("Spot1")
+    alert("This is a fun alert!")
   }
 
   if (event.id == 'spot2') {
-    alert('Spot2');
+    alert('this is a boring alert!');
   }
 
   if (event.id == 'spot3') {
