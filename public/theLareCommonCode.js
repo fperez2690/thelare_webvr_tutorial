@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'http://photosphereviewer.net/images/demo/demo1_full.jpg',
+  image: 'https://www.androidcentral.com/sites/androidcentral.com/files/styles/w680h550/public/postimages/108579/photosphere_0.jpg',
   is_stereo: false,
 });
 
